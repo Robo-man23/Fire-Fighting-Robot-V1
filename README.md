@@ -1,4 +1,7 @@
-# Fire-Fighting-Robot-V1 ( https://sites.google.com/view/rhythmshah/fire-fighting-robot-v1?authuser=0 )
+# Fire-Fighting-Robot-V1 
+
+## Link:
+https://sites.google.com/view/rhythmshah/fire-fighting-robot-v1?authuser=0 
 
 ## Components Required:
 1. Robot Chasis

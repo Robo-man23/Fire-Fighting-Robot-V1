@@ -1,6 +1,6 @@
 # Fire-Fighting-Robot-V1 ( https://sites.google.com/view/rhythmshah/fire-fighting-robot-v1?authuser=0 )
 
-**Components Required:**
+## Components Required:
 1. Robot Chasis
 2. Arduino Mega
 3. L298n motor driver

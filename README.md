@@ -66,7 +66,7 @@ The main brain of this project is Arduino UNO/Mega depending upon applicating fe
 
 - ➤ Arduino programming
 - ➤ Embedded System Design
-- ➤ Circuit simulation and designing tool- Proteus, Flux
+- ➤ Circuit simulation and designing tool- Proteus
 
 
 
